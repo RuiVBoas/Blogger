@@ -26,6 +26,7 @@
 				<input name="autor" type="text"/>
 				<?= form_error("autor")?>
 			</h5>
+			
 		</div>
 		<input type="submit" value="Submit"/>
 		</form>
